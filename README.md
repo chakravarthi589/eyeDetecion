@@ -1,4 +1,4 @@
-# eyeDetection
+# In-class activity codebase
 
-A simple python script to detect eyes using OpenCV. 
+Find the snippets/codes here for HCI in-class coding tasks. 
 
